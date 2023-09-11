@@ -20,7 +20,6 @@ My main goal is to continue growing as a programmer and contribute to the world 
 
 ## Socials
 
-- Email: dani04iuga@gmail.com
 - Twitter: https://twitter.com/Iugaaa0
 - LinkedIn: https://www.linkedin.com/in/danieliuga/
 
